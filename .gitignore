@@ -1,0 +1,13 @@
+# 本机运行时产物：config.json 记录的是本机路径，不应进入版本库
+renpy-android-packager/scripts/config.json
+
+# Python 缓存与编译产物
+__pycache__/
+*.py[cod]
+
+# 编辑器与系统杂项
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
